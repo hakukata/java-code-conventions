@@ -1,5 +1,7 @@
 # Code Conventions for the Java Programming Language 中文翻译《Java 编码规范》
 
+> 本开源书 forked from [Java 编码规范](https://github.com/waylau/java-code-conventions)，作者为 [waylau](https://github.com/waylau)，欢迎大家 star 原作者的 [repo](https://github.com/waylau/java-code-conventions)，以便获得最新更新，谢谢！
+
 Chinese translation of the [Code Conventions for the Java Programming Language](http://www.oracle.com/technetwork/java/index-135089.html)  document. This
 document contains the standard conventions that we at Sun follow and recommend that others follow. It covers filenames, file organization, indentation, comments, declarations, statements, white space, naming conventions, programming practices and includes a code example. 
 
